@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sed -i s%://www.zonealarm.com%://www-stg3.zonealarm.com%g $1
